@@ -24,6 +24,8 @@ Read [AGENTS.md](AGENTS.md) and [CONTRIBUTING.md](CONTRIBUTING.md) before starti
 
 The current [continuous-integration policy](docs/ci.md) protects the repository documentation while experiments are being defined.
 
+The current experiment contracts live in [docs/experiments/README.md](docs/experiments/README.md). They are decision records, not an approval to build all three paths.
+
 ## License
 
 A license has not yet been selected. Do not assume permission to reuse the repository contents until one is published.
