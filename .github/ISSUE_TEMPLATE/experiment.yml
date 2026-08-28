@@ -1,0 +1,35 @@
+name: Bounded experiment
+description: Turn one uncertainty into reproducible evidence.
+title: "spike: "
+labels: ["experiment"]
+body:
+  - type: textarea
+    attributes:
+      label: Decision and hypothesis
+      description: What decision will this evidence inform, and what do you expect to learn?
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Scope, non-goals, and timebox
+      description: State the smallest experiment and when it stops.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Success, failure, and reproducibility
+      description: Include the evidence, fixtures/settings, and command required for both outcomes.
+    validations:
+      required: true
+  - type: dropdown
+    attributes:
+      label: Risk level
+      options: [L0, L1, L2, L3]
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Destination or disposal path
+      description: Player2, standalone plugin proposal, or deletion; explain why.
+    validations:
+      required: true

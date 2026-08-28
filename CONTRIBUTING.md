@@ -14,3 +14,4 @@ Thank you for helping make the research useful and reproducible.
 - Do not commit credentials, personal play data, proprietary game content, or generated build output.
 - Include focused automated checks when feasible; otherwise provide exact manual reproduction and verification steps.
 - Keep DeepSeek Harness changes in a separate upstream proposal. Lab work may use public DSH releases but must not patch the core as a shortcut.
+- Follow the [operating model](docs/operating-model.md) for research intake, evidence, Git hygiene, promotion, and owner gates.
