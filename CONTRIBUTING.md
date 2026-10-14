@@ -4,7 +4,6 @@ Thank you for helping make the research useful and reproducible.
 
 ## Before starting an experiment
 
-- Read [AGENTS.md](AGENTS.md).
 - State the hypothesis, success signal, risks, owner, and teardown condition in the experiment documentation.
 - Confirm whether the work belongs in the lab, DSH-Player2, or a standalone DSH plugin before building shared infrastructure.
 

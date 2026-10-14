@@ -20,7 +20,7 @@ The lab treats [DeepSeek Harness](https://github.com/dsh2026/test-Alex-Yanggg) a
 
 ## Contributing
 
-Read [AGENTS.md](AGENTS.md) and [CONTRIBUTING.md](CONTRIBUTING.md) before starting an experiment.
+Read [CONTRIBUTING.md](CONTRIBUTING.md) before starting an experiment.
 
 The current [continuous-integration policy](docs/ci.md) protects the repository documentation while experiments are being defined.
 
